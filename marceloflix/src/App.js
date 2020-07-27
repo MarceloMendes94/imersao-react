@@ -8,6 +8,7 @@ function App() {
       <h1>Ola mundo</h1>
       Alguma coisa no meio
       hot reload
+      <h2> bom dia</h2>
     </div>
   );
 }
